@@ -1,7 +1,7 @@
 // Given lower limit and upper limit, write a function to print all primes within that range.
 import java.util.*;
 
-public class Prog1 {
+public class Prog2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the lower limit.");
