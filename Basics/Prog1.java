@@ -1,6 +1,6 @@
 // Prog to check whether the input number is prime or not.(optimised soln)
 import java.util.*;
-public class prog0 {
+public class Prog1 {
 
     public static void main(String[] args) {
        Scanner sc = new Scanner(System.in);
