@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "SortingAlgorithm",
         "SearchingAlgorithm",
-        "SortingAlgorithm"
+        "Stack"
     ]
 }
