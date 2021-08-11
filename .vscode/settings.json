@@ -3,6 +3,7 @@
         "Stack",
         "SortingAlgorithm",
         "SearchingAlgorithm",
-        "Arrays"
+        "Arrays",
+        "Strings"
     ]
 }
