@@ -24,3 +24,6 @@ public class toggleCase {
         System.out.println(toggleCase(str));
     }
 }
+
+// input--> AyUShI
+// output--> aYusHi
