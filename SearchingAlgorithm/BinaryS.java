@@ -1,3 +1,5 @@
+package SearchingAlgorithm;
+
 public class BinaryS {
 
     public static void main(String[] args) {
@@ -5,6 +7,7 @@ public class BinaryS {
         int n = 5;
         int lo = 0;
         int hi = arr.length - 1;
+        int count = 0;
         while (lo <= hi) {
             int mid = (lo + hi) / 2;
             if (arr[mid] == n) {
@@ -18,3 +21,4 @@ public class BinaryS {
         }
     }
 }
+// Applicable when the array is sorted.

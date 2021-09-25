@@ -1,4 +1,7 @@
+
 // program to find given element in array.
+package SearchingAlgorithm;
+
 import java.util.*;
 
 public class LinearS {
